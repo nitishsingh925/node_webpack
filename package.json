@@ -1,7 +1,8 @@
 {
-  "name": "webpack",
+  "name": "node_webpack",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node src/index.js",
     "build": "webpack",
